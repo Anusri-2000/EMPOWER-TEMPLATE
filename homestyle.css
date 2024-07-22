@@ -1,0 +1,108 @@
+.nav{
+    display: flex;
+    column-gap: 200px;
+}
+.A {
+    display: flex;
+}
+.B {
+    display:flex;
+    column-gap: 50px;
+}
+.A1 img{
+    height: 50px;
+    width: 50px;
+}
+button {
+    margin-left: 50px;
+    text-align: center;
+    background-color: rgb(177, 69, 162);
+    height: 50px;
+    width:200px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+.A1{
+    margin-top: 15px;
+}
+.bg{
+    background-image: url(images/1st\ homepage.jfif);
+    background-size: cover;
+    height: 600px;
+    width: 1400px;
+}
+.bg h1{
+    color:white;
+    padding-top: 250px;
+    font-size: 50px;
+    margin-left: 50px;
+
+}
+.but button{
+    
+    background-color: pink;
+   
+ color:rgb(224, 30, 30);
+}
+.but button:hover{
+    background-color: blue;
+
+}
+.C button:hover{
+    background-color: red;
+}
+.B h3:hover{
+    color: rgb(179, 167, 167);
+}
+.AA{
+    margin-left: 30px;
+}
+.AAS{
+    display: flex;
+    margin-top: 40px;
+    column-gap: 60px;
+    font-size: 30px;
+
+}
+
+.AAA{
+    display: flex;
+    column-gap:50px;
+}
+.BB{
+
+    font-size: 20px;
+    width: 700px;
+
+}
+
+.AAS i{
+    font-size: 70px;
+}
+.p{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 200px;
+    row-gap: 200px;
+}
+
+.p1 img{
+    height: 500px;
+    width:600px;
+
+}
+.p1{
+    height: 420px;
+    width: 500px;
+}
+
+
+
+
+
+
+
+
+ 
